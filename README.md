@@ -2,7 +2,7 @@
 
 Calculate date from another time.
 
-(c) 2011-2014 [Roman Piták](http://pitak.net) roman@pitak.net
+(c) 2011-2015 [Roman Piták](http://pitak.net) roman@pitak.net
 
 ## SYNOPSIS
 
